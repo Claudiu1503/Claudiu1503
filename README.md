@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hy! My name is Adrian and I’m currently a third-year Computer Science student at Technical University of Cluj-Napoca.<br> I enjoy building and developing applications, focusing on backend development with Java Spring and frontend interfaces using React + Vite. <br> Outside of coding, my favorite hobby is fishing, which lets me unwind and enjoy the outdoors.
+Hy! 
+My name is Adrian and I’m currently a third-year Computer Science student at Technical University of Cluj-Napoca.<br> I enjoy building and developing applications, focusing on backend development with Java Spring and frontend interfaces using React + Vite. <br> Outside of coding, my favorite hobby is fishing, which lets me unwind and enjoy the outdoors.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/claudiu.chis.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chisclaudiu1503/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adrianclaudiuchis/) 
