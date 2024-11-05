@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hy! <br>
+Hy 👋 <br>
 💻 My name is Adrian and I’m currently a third-year Computer Science student at Technical University of Cluj-Napoca.<br> 🛠️ I enjoy developing applications, focusing on backend development with Java Spring and frontend interfaces using React. <br> 🎣 Outside of coding, my favorite hobby is fishing, which lets me unwind and enjoy the outdoors.
 
 ## 🌐 Socials:
