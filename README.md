@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on RESTful Web API using Spring & React<br>🤝 I’m looking for help with JS.<br>🌱 I’m currently learning AI and Web security.<br>⚡ Fun fact I like fishing!
-
+Hy! My name is Adrian and I’m currently a third-year Computer Science student at Technical University of Cluj-Napoca.<br> I enjoy building and developing applications, focusing on backend development with ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) and frontend interfaces using ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB). <br> Outside of coding, my favorite hobby is fishing, which lets me unwind and enjoy the outdoors.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/claudiu.chis.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chisclaudiu1503/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adrianclaudiuchis/) 
